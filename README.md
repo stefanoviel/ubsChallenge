@@ -18,6 +18,6 @@ The main ideas that we have used are:
 
 ## The team
 Our team:
-- Matteo Santelmo
-- Alessandro Dalbesio
-- Stefano Viel 
+- Matteo Santelmo matteo.santelmo@epfl.ch
+- Alessandro Dalbesio alessandro.dalbesio@epfl.ch
+- Stefano Viel stefano.viel@epfl.ch
